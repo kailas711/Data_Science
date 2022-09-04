@@ -18,6 +18,6 @@ A curated list of 50 projects that i have been working on since Sept 1 with my f
 
 | Notebook | Project Title | Dataset Links |
 | --------------- | --------------- | --------------- |
-| [Project 1]() | Global plastic waste management | [Plastic Waste Generated Dataset](https://gist.githubusercontent.com/kailas711/cd1d788cd4eab98e68c2995d33d20048/raw/2b914a39b7bedefb91b14f3274d62e265f532111/per-capita-mismanaged-plastic-waste-vs-gdp-per-capita.csv),[Plastic Waste Mismanaged Dataset](https://gist.githubusercontent.com/kailas711/cd1d788cd4eab98e68c2995d33d20048/raw/2b914a39b7bedefb91b14f3274d62e265f532111/per-capita-plastic-waste-vs-gdp-per-capita.csv) |
+| [Project 1](https://github.com/kailas711/Data_Science/blob/main/Project_1/Project%201%20.ipynb) | Global plastic waste management | [Plastic Waste Generated Dataset](https://gist.githubusercontent.com/kailas711/cd1d788cd4eab98e68c2995d33d20048/raw/2b914a39b7bedefb91b14f3274d62e265f532111/per-capita-mismanaged-plastic-waste-vs-gdp-per-capita.csv),[Plastic Waste Mismanaged Dataset](https://gist.githubusercontent.com/kailas711/cd1d788cd4eab98e68c2995d33d20048/raw/2b914a39b7bedefb91b14f3274d62e265f532111/per-capita-plastic-waste-vs-gdp-per-capita.csv) |
 | Loading..| Loading.. | Loading.. |
 | Loading..| Loading.. | Loading.. |

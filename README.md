@@ -1,6 +1,6 @@
 # Data_Science
 
-A curated list of 50 projects that i have been working on since Sept 1 with my friend and classmate **[Adarsh S](https://github.com/Adarsh0047)**, 2022 on various problem statements in data science.The dataset are already available in my GitHUb gist or you can download it from each project folder itself 
+A curated list of 25 projects that i have been working on since Sept 1 with my friend and classmate **[Adarsh S](https://github.com/Adarsh0047)**, 2022 on various problem statements in data science.The dataset are already available in my GitHUb gist or you can download it from each project folder itself 
 
 ## General Structure of the projects:
 * Import libraries.
